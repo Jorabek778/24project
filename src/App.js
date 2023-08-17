@@ -2,7 +2,6 @@
 import './App.css';
 
 function App() {
-  let a=0
   const [state , setState] = useState(0)
 
   function inc(){
